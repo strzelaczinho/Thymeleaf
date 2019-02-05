@@ -1,0 +1,10 @@
+adam\projekty\interceptor\RequestInterceptor.class
+adam\projekty\controller\GameController.class
+adam\projekty\util\GameMappings.class
+adam\projekty\util\thymeleaf\DecoupledLogicSetup.class
+adam\projekty\service\GameService.class
+adam\projekty\service\GameServiceImpl.class
+adam\projekty\WebMain.class
+adam\projekty\util\ViewNames.class
+adam\projekty\config\WebConfig.class
+adam\projekty\util\AttributeNames.class

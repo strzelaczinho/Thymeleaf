@@ -1,0 +1,5 @@
+Project Settings -> Plugins -> lombok . Install i restart IDE
+Potem jeszcze raz Settings -> BuildExecution -> Compiler -> Annotation Processors-> Enable annotation processing (mozna uzywac lombok , ale trzeba dodac dependency)
+Szukam na mavenie lombok i dodaje dependency do projektu . Dla jdk10 latest release , ale to sie zmienia 1.6.20
+
+
